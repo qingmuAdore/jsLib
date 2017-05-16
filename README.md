@@ -1,3 +1,3 @@
 # jsLib
 
-## [jsonRPC](./jsonRPC/README.md)
+## [jsonRPC](./jsonRPC)
